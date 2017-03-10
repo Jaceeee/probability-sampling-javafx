@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="200" prefWidth="320" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.111" fx:controller="samplingmethods.FXMLDocumentController">
+    <children>
+        <Button fx:id="rndbtn1" layoutX="175.0" layoutY="56.0" onAction="#handleEntryButtonAction" text="Begin" />
+        <Label fx:id="label" layoutX="62.0" layoutY="61.0" minHeight="16" minWidth="69" text="Random Sampling" />
+      <Label fx:id="label1" layoutX="58.0" layoutY="95.0" minHeight="16" minWidth="69" text="Stratified Sampling" />
+      <Label fx:id="label11" layoutX="47.0" layoutY="128.0" minHeight="16" minWidth="69" text="Systematic Sampling" />
+      <Button fx:id="sttbtn3" layoutX="175.0" layoutY="92.0" onAction="#handleEntryButtonAction" text="Begin" />
+      <Button fx:id="sysbtn2" layoutX="175.0" layoutY="126.0" onAction="#handleEntryButtonAction" text="Begin" />
+      <Label fx:id="label2" layoutX="95.0" layoutY="23.0" minHeight="16" minWidth="69" text="Basic Sampling Methods" />
+      <Button fx:id="quit" layoutX="141.0" layoutY="161.0" mnemonicParsing="false" onAction="#quit" text="Quit" />
+    </children>
+</AnchorPane>
