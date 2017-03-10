@@ -1,4 +1,4 @@
-<h1> Probability Sampling </h1>
+<h1> Probability Sampling </h1>____
 
 <h2>An implementation of the probability sampling methods using JavaFX</h2>
 _______
