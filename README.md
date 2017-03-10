@@ -1,6 +1,5 @@
 <h1> Probability Sampling </h1>
 <h2>An implementation of the probability sampling methods using JavaFX</h2>
-_______
 <h3> a collaboration by Michael Loewe Alivio and Jace Roldan </h3>
 
 <h3>About the code </h3>
@@ -12,13 +11,15 @@ You can find our .jar file [here](https://drive.google.com/open?id=0B0pMGvlei5h9
 
 <h3> Credits </h3>
 We literally started off on the projects just two days after we had learned about basic JavaFX and FXML.
-These sites really gave us a healthy boost of inspiration and help in coding.
-http://docs.oracle.com/javase/8/javafx/api/javafx/fxml/doc-files/introduction_to_fxml.html
-http://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm
+These sites really gave us a healthy boost of inspiration and help in coding. <br />
+http://docs.oracle.com/javase/8/javafx/api/javafx/fxml/doc-files/introduction_to_fxml.html <br />
+http://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm <br />
 
-We'd like to attribute some of the helpful code snippets to this site as well.
+We'd like to attribute some of the helpful code snippets to this site as well.<br />
 http://www.javafxtutorials.com/tutorials/switching-to-different-screens-in-javafx-and-fxml/
-http://stackoverflow.com/
+http://stackoverflow.com/ <br />
 
-And of course, programmers can only do so much with plain documentation that sometimes we need virtual help. We'd like to extend our thanks to these guys for putting up an awesome tutorial.
-https://www.youtube.com/watch?v=2j-e1CHsqsE&list=PLS1QulWo1RIaUGP446_pWLgTZPiFizEMq&index=5
+And of course, programmers can only do so much with plain documentation that sometimes we need virtual help. We'd like to extend our thanks to these guys for putting up an awesome tutorial. <br />
+https://www.youtube.com/watch?v=2j-e1CHsqsE&list=PLS1QulWo1RIaUGP446_pWLgTZPiFizEMq&index=5 <br />
+
+P.S. We never mind helpful tips when it comes to code!
