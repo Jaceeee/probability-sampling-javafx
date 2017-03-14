@@ -15,7 +15,7 @@ These sites really gave us a healthy boost of inspiration and help in coding. <b
 http://docs.oracle.com/javase/8/javafx/api/javafx/fxml/doc-files/introduction_to_fxml.html <br />
 http://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm <br />
 
-We'd like to attribute some of the helpful code snippets to this site as well.<br />
+We'd like to attribute some of the helpful code snippets to these sites as well.<br />
 http://www.javafxtutorials.com/tutorials/switching-to-different-screens-in-javafx-and-fxml/ <br />
 http://stackoverflow.com/ <br />
 
